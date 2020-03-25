@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807876916643",
+    "firebase_url": "https://kanbanlist-78353.firebaseio.com",
+    "project_id": "kanbanlist-78353",
+    "storage_bucket": "kanbanlist-78353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807876916643:android:d5c53625afbb9512ce1616",
+        "android_client_info": {
+          "package_name": "com.example.kanbanlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807876916643-2u48gnb9812ne4leilmqi4plll59o07n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanbanlist",
+            "certificate_hash": "3a68f6dcd745a52255844162b45dddb23220d78e"
+          }
+        },
+        {
+          "client_id": "807876916643-ubad3r07khrnp11g9scgjo21rmhh4c2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhJDUL8JtTn1cLLAeXlhlt9za8ST3Xkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807876916643-ubad3r07khrnp11g9scgjo21rmhh4c2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
